@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sv1le
-- 👀 I’m interested in coding(currently a beginner)
-- 🌱 I’m currently learning in C++
+- 👀 grinding myself in CPP(currently a beginner)
 - 📫 Mail - sidsahano1@gmail.com
 
 <!---
